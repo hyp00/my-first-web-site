@@ -7,3 +7,23 @@
 | :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 |                      [박유진](https://github.com/jin171)                       |                        [박혜진](https://github.com/hyp00)                        |                     [최예빈](https://github.com/beenvyn)                      |       
 |                   팀장, 백엔드                |                   팀원, 백엔드             |        팀원, 프론트엔드           |          
+## 기술 스택
+
+
+
+## 라이브러리
+
+
+## 데이터
+콘텐츠 기반 추천 알고리즘에 사용된 데이터: <br>
+https://docs.google.com/spreadsheets/d/1leFDaOCDJfxu9AZgyfMM_50xPK2Z39ayGna_stVtbxw/edit?gid=1227239017#gid=1227239017  <br>
+[출처: 컨슈머인사이트 'MZ 문화여가활동 특징 데이터']
+우선순위 반환하는데 사용된 데이터: <br>
+https://docs.google.com/spreadsheets/d/1iDMAPNro1aABKKqTNvgXG0qRIvMug79l/edit?usp=drive_link&ouid=112129444307325997977&rtpof=true&sd=true  <br>
+[출처: 컨슈머인사이트 'MZ 문화여가활동 특징 데이터']
+협업 필터링 추천 알고리즘에 사용된 데이터: <br>
+https://docs.google.com/spreadsheets/d/1Fb4xSgideUwhk5jMRLWG8XCmubvU8s1Y/edit?gid=1062421834#gid=1062421834  <br>
+[출처: 솜씨당]
+
+
+## 실행 방법
