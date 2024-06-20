@@ -10,6 +10,11 @@
 |                   팀장, 백엔드                |                   팀원, 백엔드             |        팀원, 프론트엔드           |          
 
 ## 기술 스택
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat square&logo=pandas&logoColor=white"> 
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
 python, pandas, numpy, flask, pytest
 
 ## 라이브러리
